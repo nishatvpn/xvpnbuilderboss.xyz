@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='82.223.165.66';
-db_user='xvpnbuild_bwh';
-db_pass='@@@@Nishat12345';
-db_name='xvpnbuild_bwh';
+db_user='xvpnbuild_vpn';
+db_pass='xvpnbuild_vpn';
+db_name='xvpnbuild_vpn';
 
 install_require()
 {
