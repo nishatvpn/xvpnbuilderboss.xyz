@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='82.223.165.66';
-USER='xvpnbuild_bwh';
-PASS='@@@@Nishat12345';
-DBNAME='xvpnbuild_bwh';
+USER='xvpnbuild_vpn';
+PASS='xvpnbuild_vpn';
+DBNAME='xvpnbuild_vpn';
 
 install_require()
 {
